@@ -67,6 +67,7 @@ export default function Introduction({
 
       <div className="my-8" id="events" ref={eventsRef}>
         <h2>Events</h2>
+        {/*
         <table className="w-full border-collapse">
           <tr className="text-left">
             <th className="border p-2"></th>
@@ -87,6 +88,7 @@ export default function Introduction({
             </tr>
           ))}
         </table>
+        */}
         <p>
           Let&apos;s start with a highlight: STEM competitions; called events,
           we have over 15 in disciplines from competitions in creative fields
